@@ -3,4 +3,4 @@
 Olá ! Bem vindo ao meu livro de recietas :clap:
 
 - Strogonoff de frango
-- Pavê
+- Pavê de chocolate branco
